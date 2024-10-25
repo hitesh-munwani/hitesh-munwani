@@ -14,7 +14,8 @@ I am **Hitesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa 
 ## Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-Red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hitesh-munwani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-munwani)
+
 <!-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/munwanihitesh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/munwanihitesh/) -->
 
