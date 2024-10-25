@@ -2,21 +2,21 @@
 
 
 
-<h1 align="center"> Hello, I'm Dinesh Kumar </h1>
+<h1 align="center"> Hello, I'm Hitesh Kumar </h1>
 <!-- <img width="250" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
 
-![Profile Views](https://visitcount.itsvg.in/api?id=kumardinesh21&label=Profile%20Views&color=1&icon=0&pretty=false)
+![Profile Views](https://visitcount.itsvg.in/api?id=hitesh-munwani&label=Profile%20Views&color=1&icon=0&pretty=false)
 
 ## About Me
 
-I am **Dinesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in the final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
+I am **Hitesh Kumar**, pursuing my **Software Engineering degree** at DHA Suffa University. I am currently in the final year of my Bachelor's program. As of now, I am focused on **Back-End development** but still wish to explore many other fields ⚡
 
 ## Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-Red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-kumar1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajputdineshkum1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rajputdineshkumar21/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hitesh-munwani)
+<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/munwanihitesh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/munwanihitesh/) -->
 
 ## Technical Skills
 
@@ -41,15 +41,15 @@ Passionate about continuous learning, I have a strong background in web developm
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumardinesh21&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hitesh-munwani&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardinesh21&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-munwani&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumardinesh21&theme=dark" alt="dinesh" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-munwani&theme=dark" alt="hitesh" />
 </div>
 <br/>
 
